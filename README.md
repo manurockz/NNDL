@@ -6,3 +6,7 @@ calculating the global minimum point and value for the function f(x,y) = x^4 + 3
 
 # Assignment 3
 python code to build simple linear regression model using Stochastic Gradient Descent (SGD) optimiser (implemented on a sample data)
+
+# Assignment 5
+python code to build simple linear regression model using Mini Batch Gradient Descent (MBGD) optimiser (implemented on a sample data)
+
