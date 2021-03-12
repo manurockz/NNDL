@@ -13,3 +13,6 @@ python code to build simple linear regression model using Mini Batch Gradient De
 # Assignment 7
 python code to build simple linear regression model using Batch Gradient Descent (BGD) optimiser (implemented on a sample data)
 
+# Assignment 9
+python code to build simple linear regression model using <i>Momentum </i> Gradient Descent (MGD) optimiser (implemented on a sample data)
+
