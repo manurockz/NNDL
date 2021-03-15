@@ -29,3 +29,10 @@ python code to build simple linear regression model using <b>Batch</b> Gradient 
 # Assignment 9
 python code to build simple linear regression model using <b>Momentum </b> Gradient Descent (MGD) optimiser (implemented on a sample data)
 
+# Assignment 11
+python code to build simple linear regression model using <b>Nesterov Accelerated </b>Gradient Descent (NAG) optimiser (implemented on a sample data)
+
+
+
+
+
