@@ -19,6 +19,12 @@ python code to build simple linear regression model using <b>Mini Batch</b> Grad
 # Assignment 7
 python code to build simple linear regression model using <b>Batch</b> Gradient Descent (BGD) optimiser (implemented on a sample data)
 
+# Assignment 8
+python code to build simple linear regression model using <b>Batch</b> Gradient Descent (BGD) optimiser (implemented on a realtime data set)
+<p> this model is used to predict the weight of liquid nitrogen  by giving pressure of liquid nitrogen as input to model.
+  <br>input: pressure of liquid nitrogen
+  <br> output: weight of liquid nitrogen
+
 # Assignment 9
 python code to build simple linear regression model using <b>Momentum </b> Gradient Descent (MGD) optimiser (implemented on a sample data)
 
