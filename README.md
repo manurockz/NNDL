@@ -16,10 +16,16 @@ python code to build simple linear regression model using <b>Stochastic </b>Grad
 python code to build simple linear regression model using <b>Stochastic</b> Gradient Descent (SGD) optimiser (implemented on a realtime data set)
 <p> this model is used to predict the number of bicarbonates present in a well water by giving pH value of water as input to model.
   <br>input: pH value
-  <br> output: number of bicarbonates
+  <br>output: number of bicarbonates
 
 # Assignment 5
 python code to build simple linear regression model using <b>Mini Batch</b> Gradient Descent (MBGD) optimiser (implemented on a sample data)
+
+# Assignment 6
+python code to build simple linear regression model using <b>Mini Batch</b> Gradient Descent (MBD) optimiser (implemented on a realtime data set)
+<p> this model is used to predict the price of a house by giving square feet of living area of the house as input to model.
+  <br>input: square feet of living area of house
+  <br>output: price of house
 
 # Assignment 7
 python code to build simple linear regression model using <b>Batch</b> Gradient Descent (BGD) optimiser (implemented on a sample data)
@@ -28,7 +34,7 @@ python code to build simple linear regression model using <b>Batch</b> Gradient 
 python code to build simple linear regression model using <b>Batch</b> Gradient Descent (BGD) optimiser (implemented on a realtime data set)
 <p> this model is used to predict the weight of liquid nitrogen  by giving pressure of liquid nitrogen as input to model.
   <br>input: pressure of liquid nitrogen
-  <br> output: weight of liquid nitrogen
+  <br>output: weight of liquid nitrogen
 
 # Assignment 9
 python code to build simple linear regression model using <b>Momentum </b> Gradient Descent (MGD) optimiser (implemented on a sample data)
