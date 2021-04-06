@@ -54,6 +54,9 @@ python code to build simple linear regression model using <b>Nesterov Accelerate
   <br>input: previous hours load
   <br>output:present hours load
 
+# Assignment 13
+python code to build simple linear regression model using <b>ADAGRAD optimiser</b> (implemented on a sample data)
+
 
 
 
