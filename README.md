@@ -63,6 +63,12 @@ python code to build simple linear regression model using <b>ADAGRAD optimiser <
   <br>input: last weeks load at ith hour
   <br>output: todays load at ith hour
 
+# Assignment 16
+python code to build simple multiple regression model using <b>RMSPRP optimiser </b> (implemented on a realtime data set)
+<p> this model is used to predict the load of current on present day at ith hour by giving load of yesterdays current at ith hour and load of current at i-1th hour as input to model.
+  <br>input: yesterdays load at ith hour
+  <br> input2: load at i-1th hour
+  <br>output: todays load at ith hour
 
 
 
